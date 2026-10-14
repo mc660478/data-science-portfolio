@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 # About Me
-Hello! My name is ZHU LINGJING. I am a student learning data science and data visualization. I am building this portfolio to document my projects, practise Python, and improve my ability to present data clearly.
+Hi, I'm ZHU LINGJING. I'm taking CISC7204 and this is my first attempt at building a public data science portfolio. For this project, I explored a DSEC dataset to see how Macao's property prices changed between Q3 2020 and Q3 2025. I'm still learning, but I hope this portfolio shows my progress and makes the data easy to understand.
 
 # Technical Skills
 - Python (basic data analysis)
