@@ -26,7 +26,7 @@ Main finding: The overall index was nearly unchanged between Q3 2020 (269.0) and
 The line chart makes the overall trend easier to see. A second chart in the project repository shows the percentage change between consecutive third-quarter observations.
 
 Project repository: 
-`https://github.com/mc660478/data-science-project`
+https://github.com/mc660478/data-science-project
 
 # What I Plan to Improve
 Next, I plan to verify and document the data more fully, expand the time-series analysis if suitable official data are available, and improve the explanations so readers can distinguish property-price movements from housing affordability.
