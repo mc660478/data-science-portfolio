@@ -25,7 +25,7 @@ Main finding: The overall index was nearly unchanged between Q3 2020 (269.0) and
 
 The line chart makes the overall trend easier to see. A second chart in the project repository shows the percentage change between consecutive third-quarter observations.
 
-Project repository: Replace this placeholder with your actual GitHub project repository URL:
+Project repository: 
 `https://github.com/mc660478/data-science-project`
 
 # What I Plan to Improve
