@@ -23,7 +23,8 @@ Main finding: The overall index was nearly unchanged between Q3 2020 (269.0) and
 
 ![Macao residential property price index trend](figures/property_price_index_trend.png)
 
-The line chart makes the overall trend easier to see. A second chart in the project repository shows the percentage change between consecutive third-quarter observations.
+The line chart makes the overall trend easier to see. A second chart in the project repository shows the percentage change between consecutive third-quarter observations.It clearly shows a continuous decline after the peak in 2021.
+(Updated: Based on a classmate's feedback, I added a more specific explanation for the line chart to highlight the continuous decline after 2021.)
 
 Project repository: 
 https://github.com/mc660478/data-science-project
